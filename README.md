@@ -16,7 +16,7 @@ In this version 2.0 have been fixed some outline of the letters "m" and "a", som
 
 ## How to use
 ```html
-<link href='https://cdn.rawgit.com/sweetpm/SPWebFonts/master/spwetfonts.min.css' rel='stylesheet' type='text/css'>
+<link href='https://cdn.rawgit.com/sweetpm/SPWebFonts/master/spwebfonts.min.css' rel='stylesheet' type='text/css'>
 ```
 
 ```css
