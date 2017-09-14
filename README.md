@@ -16,7 +16,7 @@ In this version 2.0 have been fixed some outline of the letters "m" and "a", som
 
 ## How to use
 ```html
-TBD
+<link href='https://cdn.rawgit.com/sweetpm/SPWebFonts/master/spwetfonts.min.css' rel='stylesheet' type='text/css'>
 ```
 
 ```css
@@ -29,4 +29,5 @@ body {
 ```
 
 ## Demo
-TBD
+
+[See Demo](https://htmlpreview.github.io/?https://github.com/sweetpm/SPWebFonts/blob/master/demo.html)
